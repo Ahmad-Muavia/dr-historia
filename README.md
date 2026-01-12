@@ -16,6 +16,8 @@
 Mr. Historia is an interactive AI-powered history chatbot built with Gradio and powered by GROQ’s LLaMA 3.3 (70B) model.
 It acts as a passionate virtual historian, helping users explore world history with engaging storytelling, accuracy, and context.
 
+**LIVE PREVIEW**: https://huggingface.co/spaces/Ahmad-Muavia/MR_HISTORYEXPERT?logs=container
+
 ---
 **✨ Features**
 
