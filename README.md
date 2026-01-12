@@ -1,5 +1,5 @@
 <p align="center">
-🏛️ Mr. Historia – AI History Expert Chatbot
+🏛️ Dr. Historia – AI History Expert Chatbot
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 
-Mr. Historia is an interactive AI-powered history chatbot built with Gradio and powered by GROQ’s LLaMA 3.3 (70B) model.
+Dr. Historia is an interactive AI-powered history chatbot built with Gradio and powered by GROQ’s LLaMA 3.3 (70B) model.
 It acts as a passionate virtual historian, helping users explore world history with engaging storytelling, accuracy, and context.
 
 **LIVE PREVIEW**: https://huggingface.co/spaces/Ahmad-Muavia/MR_HISTORYEXPERT?logs=container
@@ -21,7 +21,7 @@ It acts as a passionate virtual historian, helping users explore world history w
 ---
 **✨ Features**
 
-- 🎓 Expert Persona – Responds as Mr. Historia, a seasoned history scholar
+- 🎓 Expert Persona – Responds as Dr. Historia, a seasoned history scholar
 - 🕰️ Era-Based Filtering – Focus answers on specific historical periods
 - 📝 Response Length Control – Brief, Moderate, or Detailed explanations
 - 💬 Conversational Memory – Maintains chat history for context
@@ -53,7 +53,7 @@ It acts as a passionate virtual historian, helping users explore world history w
 
 1️⃣ Clone the Repository
 ```
-git clone https://github.com/your-username/dr-historia.git
+git clone https://github.com/Ahmad-Muavia/dr-historia.git
 cd dr-historia
 ```
 
@@ -78,7 +78,7 @@ setx GROQ_API_KEY "your_groq_api_key_here"
 ```
 python app.py
 ```
-Once running, open the local or public Gradio link shown in the terminal.
+Once running, you can open the local or public Gradio link shown in the terminal.
 
 ---
 
